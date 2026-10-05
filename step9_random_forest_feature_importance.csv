@@ -1,0 +1,40 @@
+Feature,Importance
+remainder__Y,0.1659750199683215
+remainder__X,0.16082696558040308
+remainder__Activity_Score,0.047399018596106846
+remainder__Running,0.04000216421051249
+remainder__Foraging,0.03156093294540583
+cat__Weekday_Saturday,0.03149435821432222
+remainder__Eating,0.03036386032009032
+cat__Shift_PM,0.026234374984333078
+cat__Shift_AM,0.025850780034023767
+cat__Squirrel_Density_Level_High,0.025751840903914924
+cat__Squirrel_Density_Level_Low,0.025481884097782563
+cat__Squirrel_Density_Level_Medium,0.024614864377495053
+remainder__Tail_Activity,0.024411211004270593
+remainder__Tail twitches,0.023396606927941453
+cat__Weekday_Sunday,0.023188889910184782
+cat__Location_Ground Plane,0.02263346838455427
+cat__Primary Fur Color_Gray,0.02244176838758158
+cat__Primary Fur Color_Cinnamon,0.02167885625020403
+remainder__Climbing,0.021309678007384755
+cat__Location_Above Ground,0.02129213404671044
+cat__Weekday_Wednesday,0.018882979818340456
+cat__Weekday_Friday,0.01803924087473218
+cat__Park_NorthSouth_Zone_Middle,0.014931546548095207
+remainder__Chasing,0.0140848401495493
+cat__Weekday_Monday,0.013949741204311679
+remainder__Tail flags,0.013464296948338571
+cat__Park_EastWest_Zone_East,0.013097555955953508
+cat__Park_NorthSouth_Zone_South,0.013078032561795714
+cat__Park_NorthSouth_Zone_North,0.0112188561336311
+cat__Park_EastWest_Zone_West,0.011188039148064126
+cat__Weekday_Thursday,0.009162870627668792
+remainder__Vocalisation_Score,0.008208306526834887
+cat__Primary Fur Color_Black,0.008149038430937899
+remainder__Kuks,0.0072463994823682735
+cat__Primary Fur Color_Unknown,0.003623881700411473
+cat__Location_Unknown,0.0034239745635431355
+remainder__Quaas,0.002079994713360277
+remainder__Moans,0.00026172746051986314
+remainder__Month,0.0
