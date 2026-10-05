@@ -214,6 +214,10 @@ The results indicate that:
 - the `Approach` class had fewer observations
 - spatial and behavioural features contributed useful predictive information
 
+### Model Performance Comparison
+
+![Model Performance Comparison](step8_model_performance_comparison.png)
+
 ## Feature Importance
 
 Random Forest feature importance is used to:
